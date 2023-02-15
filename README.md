@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pabloochoaa
-- 👀 I’m interested in Cybersecurity, Big Data, Block Chain, IA, Development of mobile apps
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Big Data, IA and Data Governance
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: pablo.ochoa.ajamil@gmail.com
 
